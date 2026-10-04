@@ -408,7 +408,7 @@
       }
     },
     "lemma-telepath": {
-      "sha": "9050b30136b004fc3b13ec427114ddf085dc40e9",
+      "sha": "1aafd49c81becc5eb6d25491b0a9e9634e25af6c",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
